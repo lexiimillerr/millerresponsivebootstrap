@@ -1,0 +1,80 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+.btn-primary{
+    color: #fff;
+    background-color: #5e421c;
+    border-color: #5e421c;
+    margin-bottom: 15px;
+
+}
+
+.btn-primary:hover{
+	background-color: black;
+}
+
+.bg-primary, .py-5.bg-dark {
+	background-color: #5e421c !important;
+}
+
+.bg-primary {
+	padding-top: 120px;
+}
+
+.btn-light {
+	color: black;
+}
+
+a.btn-light:hover {
+	background-color: lightgray !important;
+}
+
+
+.button, .icons {
+	text-align: center;
+}
+
+.bi.bi-facebook, .bi.bi-twitter, .bi.bi-instagram{
+	font-size: 2em;
+	color: black;
+}
+
+#mainNav {
+	background-color: black !important;
+}
+
+a{
+	text-decoration: underline; 
+	color: white;
+
+}
+
+a:hover {
+	color: black;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+
+#green.bg-light, #chest{
+	background-color: #af9067 !important;
+}
+
+#black, #green, #broad, #chest, #merge {
+	padding: 50px !important;
+
+}
+
+#top {
+	margin-bottom: 60px;
+}
+
+#chestnut, #greenberrys, #blacksheep {
+	margin-top: 60px;
+}
+
+#mergecoffee, #broadporch {
+	padding-left: 90px;
+}
+
